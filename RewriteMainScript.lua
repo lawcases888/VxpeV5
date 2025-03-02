@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VoidwareBackup/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VxpeV5/MadeByLawcases/main/NewMainScript.lua", true))()
