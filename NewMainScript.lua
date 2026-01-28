@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VxpeV5/MadeByLawcases/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UpdatedVxpeV4/number953/main/NewMainScript.lua", true))()
